@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrazyTanks", "CrazyTanks.vcxproj", "{BD66A68C-27EA-4090-A6A3-DDD889CDCC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD66A68C-27EA-4090-A6A3-DDD889CDCC10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD66A68C-27EA-4090-A6A3-DDD889CDCC10}.Debug|Win32.Build.0 = Debug|Win32
+		{BD66A68C-27EA-4090-A6A3-DDD889CDCC10}.Release|Win32.ActiveCfg = Release|Win32
+		{BD66A68C-27EA-4090-A6A3-DDD889CDCC10}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
